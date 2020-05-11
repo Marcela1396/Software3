@@ -12,7 +12,7 @@ public class ProyectoPrueba {
         int mul, number = 10;
         for (int i = 1; i<=10; i ++){
             mul = number * i;
-            System.out.println(mul);
+            System.out.println("El resultado de multiplicar es: " + mul);
         }
     }
     
